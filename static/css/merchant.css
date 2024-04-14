@@ -1,0 +1,35 @@
+.right{
+    text-align: right;
+    
+}
+
+.down{
+    position:absolute;
+    bottom: 0px;
+    right: 0px;
+}
+
+.in{
+    width: 30px;
+}
+
+.sidebar_font{
+    font-size: 20px;
+    color:black;
+}
+
+.sidebar{
+    padding-right: 20px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    min-height: 100%;
+}
+
+.high{
+    min-height: 100vh;  
+}
+
+.over{
+    overflow-y:hidden
+}
+

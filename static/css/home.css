@@ -1,0 +1,10 @@
+.bord{
+    width: 18rem;
+    background-color: antiquewhite;
+}
+
+.cover{
+    object-fit: cover;
+    width: 100%;
+    height: 300px;
+}

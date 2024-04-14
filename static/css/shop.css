@@ -1,0 +1,25 @@
+.cover{
+    object-fit: cover;
+    width: 200px;
+    height: 200px;
+}
+
+.menu{
+    object-fit: cover;
+    width: 100%;
+    height: 300px;
+}
+
+.in{
+    width: 30px;
+}
+
+.left{
+    position:absolute;
+    left: 50px;
+}
+
+.right{
+    position:absolute;
+    right: 50px;
+}

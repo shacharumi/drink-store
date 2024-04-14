@@ -1,0 +1,33 @@
+INSERT INTO `order_beverage`(`o_id`, `b_id`, `sugar`, `ice`, `quantity`) VALUES ('3','5','7','0','3');
+INSERT INTO `order_beverage`(`o_id`, `b_id`, `sugar`, `ice`, `quantity`) VALUES ('8','1','3','3','5');
+INSERT INTO `order_beverage`(`o_id`, `b_id`, `sugar`, `ice`, `quantity`) VALUES ('10','1','5','7','4');
+INSERT INTO `order_beverage`(`o_id`, `b_id`, `sugar`, `ice`, `quantity`) VALUES ('10','2','0','0','4');
+INSERT INTO `order_beverage`(`o_id`, `b_id`, `sugar`, `ice`, `quantity`) VALUES ('10','3','3','3','4');
+INSERT INTO `order_beverage`(`o_id`, `b_id`, `sugar`, `ice`, `quantity`) VALUES ('12','4','0','3','5');
+INSERT INTO `order_beverage`(`o_id`, `b_id`, `sugar`, `ice`, `quantity`) VALUES ('12','1','0','3','5');
+INSERT INTO `order_beverage`(`o_id`, `b_id`, `sugar`, `ice`, `quantity`) VALUES ('13','5','3','5','1');
+INSERT INTO `order_beverage`(`o_id`, `b_id`, `sugar`, `ice`, `quantity`) VALUES ('13','1','7','3','4');
+INSERT INTO `order_beverage`(`o_id`, `b_id`, `sugar`, `ice`, `quantity`) VALUES ('13','6','5','0','1');
+INSERT INTO `order_beverage`(`o_id`, `b_id`, `sugar`, `ice`, `quantity`) VALUES ('18','4','5','0','2');
+INSERT INTO `order_beverage`(`o_id`, `b_id`, `sugar`, `ice`, `quantity`) VALUES ('18','3','7','10','4');
+
+INSERT INTO `order_beverage`(`o_id`, `b_id`, `sugar`, `ice`, `quantity`) VALUES ('5','7','5','0','2');
+INSERT INTO `order_beverage`(`o_id`, `b_id`, `sugar`, `ice`, `quantity`) VALUES ('5','8','5','0','2');
+INSERT INTO `order_beverage`(`o_id`, `b_id`, `sugar`, `ice`, `quantity`) VALUES ('5','9','5','0','2');
+INSERT INTO `order_beverage`(`o_id`, `b_id`, `sugar`, `ice`, `quantity`) VALUES ('6','10','0','0','5');
+INSERT INTO `order_beverage`(`o_id`, `b_id`, `sugar`, `ice`, `quantity`) VALUES ('6','11','0','0','5');
+INSERT INTO `order_beverage`(`o_id`, `b_id`, `sugar`, `ice`, `quantity`) VALUES ('7','7','0','0','1');
+INSERT INTO `order_beverage`(`o_id`, `b_id`, `sugar`, `ice`, `quantity`) VALUES ('7','8','0','0','1');
+INSERT INTO `order_beverage`(`o_id`, `b_id`, `sugar`, `ice`, `quantity`) VALUES ('7','9','0','0','1');
+INSERT INTO `order_beverage`(`o_id`, `b_id`, `sugar`, `ice`, `quantity`) VALUES ('7','10','0','0','1');
+INSERT INTO `order_beverage`(`o_id`, `b_id`, `sugar`, `ice`, `quantity`) VALUES ('14','10','0','0','3');
+INSERT INTO `order_beverage`(`o_id`, `b_id`, `sugar`, `ice`, `quantity`) VALUES ('15','10','5','3','4');
+INSERT INTO `order_beverage`(`o_id`, `b_id`, `sugar`, `ice`, `quantity`) VALUES ('17','10','5','3','4');
+
+INSERT INTO `order_beverage`(`o_id`, `b_id`, `sugar`, `ice`, `quantity`) VALUES ('1','13','5','3','3');
+INSERT INTO `order_beverage`(`o_id`, `b_id`, `sugar`, `ice`, `quantity`) VALUES ('2','14','7','3','3');
+INSERT INTO `order_beverage`(`o_id`, `b_id`, `sugar`, `ice`, `quantity`) VALUES ('4','15','3','0','4');
+INSERT INTO `order_beverage`(`o_id`, `b_id`, `sugar`, `ice`, `quantity`) VALUES ('9','16','7','10','5');
+INSERT INTO `order_beverage`(`o_id`, `b_id`, `sugar`, `ice`, `quantity`) VALUES ('11','17','5','3','1');
+INSERT INTO `order_beverage`(`o_id`, `b_id`, `sugar`, `ice`, `quantity`) VALUES ('16','17','5','3','1');
+INSERT INTO `order_beverage`(`o_id`, `b_id`, `sugar`, `ice`, `quantity`) VALUES ('19','17','5','3','1');
